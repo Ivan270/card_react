@@ -1,10 +1,10 @@
 // import { useState } from 'react';
 // import reactLogo from './assets/react.svg';
 import './App.css';
-import Info from './Components/Info';
-import About from './Components/About';
-import Footer from './Components/Footer';
-import Interests from './Components/Interests';
+import Info from './components/Info';
+import About from './components/About';
+import Footer from './components/Footer';
+import Interests from './components/Interests';
 
 function App() {
 	// const [count, setCount] = useState(0);
